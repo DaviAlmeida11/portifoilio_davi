@@ -101,6 +101,12 @@ main {
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+.projeto button{
+    color: gray;
+    height: 60px;
+    width: 160px;
+    border-radius: 5px;
+}
 
 .projetos img {
     width: 100%;
@@ -109,6 +115,7 @@ main {
 }
 
 footer {
+ 
     background-color: #333;
     color: #fff;
     padding: 20px;
@@ -120,6 +127,25 @@ footer h3 {
     margin-bottom: 10px;
     color: #ffd700;
 }
+.footer-content .projeto{
+ 
+ max-width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.projeto img{
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+
+
 
 footer ul {
     list-style: none;

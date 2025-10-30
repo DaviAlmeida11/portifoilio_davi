@@ -4,15 +4,23 @@
     box-sizing: border-box;
 }
  
-header {
-    background-color: aqua;
-    
+header{
     align-items: center;
-  
 }
-h1{
+
+.inicio{
+
     display: flex;
-    align-items: center;
-    display: flex;
-   left: 40px
+    align-items: center ;
+    justify-content: center;
+    height: 60px;
+}
+.sobre_mim{
+ height: 120px;
+
+}
+
+
+main{
+   align-items: center;
 }
